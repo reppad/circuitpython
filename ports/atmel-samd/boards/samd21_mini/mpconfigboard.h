@@ -1,4 +1,4 @@
-#define MICROPY_HW_BOARD_NAME "Arduino Zero"
+#define MICROPY_HW_BOARD_NAME "SAMD21 M0 Mini"
 #define MICROPY_HW_MCU_NAME "samd21g18"
 
 // [tge] not fitted
